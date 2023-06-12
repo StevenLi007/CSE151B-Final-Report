@@ -1,4 +1,4 @@
 # CSE151B-Final-Report
 
-# Generating model files
-Running the entire notebook will generate model files (specifically during the training loop of the penultimate code block); they are not uploaded onto this repo due to size issues.
+# Reproducibility
+We have tried to recreate our best model w.r.t. the training, but it is not quite the same.
